@@ -9,3 +9,4 @@ lol
 #### Should I use this in production ?
 
 Dear god no please
+~~The license allows it though...~~
